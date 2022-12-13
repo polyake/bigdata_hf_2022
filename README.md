@@ -1,4 +1,4 @@
-# Big Data házi feladat
+# Big Data Elemzési Módszerek Házi Feladat
 ## A Global Terrorism Database elemzése (GTD 2)
 A csapat tagjai: Szűcs Ágnes, Zakar-Polyák Enikő, Mészáros Bálint
 
@@ -9,4 +9,6 @@ Adathalmaz beszerzésének dátuma: 2022 november
 A jelen feladatra szűkített adathalmazt a df_survived.parquet.gzip fájl tartalmazza.
 
 ### Kódok
-
+bigdata_gtd_eda.ipynb -- Felderítő adatelemzés (EDA)
+ -- Big data vizualizáció
+bigdata_gtd_modelling.ipynb -- Modellezés
