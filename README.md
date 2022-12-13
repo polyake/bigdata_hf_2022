@@ -9,8 +9,8 @@ Adathalmaz beszerzésének dátuma: 2022 november
 A jelen feladatra szűkített adathalmazt a *df_survived.parquet.gzip* fájl tartalmazza.
 
 ### Kódok
-*bigdata_gtd_eda.ipynb* - Felderítő adatelemzés (EDA)
+[*bigdata_gtd_eda.ipynb*](bigdata_gtd_eda.ipynb) - Felderítő adatelemzés (EDA)
 
 ** - Big data vizualizáció
  
-*bigdata_gtd_modelling.ipynb* - Modellezés
+[*bigdata_gtd_modelling.ipynb*](bigdata_gtd_modelling.ipynb) - Modellezés
