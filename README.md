@@ -10,5 +10,7 @@ A jelen feladatra szűkített adathalmazt a df_survived.parquet.gzip fájl tarta
 
 ### Kódok
 bigdata_gtd_eda.ipynb -- Felderítő adatelemzés (EDA)
+
  -- Big data vizualizáció
+ 
 bigdata_gtd_modelling.ipynb -- Modellezés
