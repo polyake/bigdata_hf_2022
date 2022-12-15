@@ -11,6 +11,6 @@ A jelen feladatra szűkített adathalmazt a [*df_survived.parquet.gzip*](df_surv
 ### Kódok
 [*bigdata_gtd_eda.ipynb*](bigdata_gtd_eda.ipynb) - Felderítő adatelemzés (EDA)
 
-[*bigdata_gtd_visualization.ipynb*](bigdata_gtd_visualization.ipynb) - Big data vizualizáció
+[*bigdata_gtd_visualisation.ipynb*](bigdata_gtd_visualisation.ipynb) - Big data vizualizáció
  
 [*bigdata_gtd_modelling.ipynb*](bigdata_gtd_modelling.ipynb) - Modellezés
